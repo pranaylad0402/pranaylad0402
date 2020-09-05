@@ -38,6 +38,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/LadPranay
+[instagram]: https://www.instagram.com/pranay5265/
 [linkedin]: https://linkedin.com/in/codeSTACKr
