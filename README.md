@@ -45,4 +45,4 @@
 
 [twitter]: https://twitter.com/LadPranay
 [instagram]: https://www.instagram.com/pranay5265/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/thepranaylad/
