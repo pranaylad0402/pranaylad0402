@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn and Grow
+- 🌱 I’m currently learning and trying to apply everything 🤣
+- 🥅 2023 Goals: Apply the Learnings and Grow
 
 ### Connect with me:
 
